@@ -1,3 +1,20 @@
 .title {
     color: blue;
 }
+
+.list {
+  
+    list-style: none;
+}
+
+/* .item {
+
+} */
+
+.btn__list {
+    display: flex;
+}
+
+.btn {
+    margin-left: 10px;
+}
