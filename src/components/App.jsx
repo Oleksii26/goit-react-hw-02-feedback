@@ -1,9 +1,10 @@
-import { Statistics } from "./Statistics/Statistics.jsx";
+import { Feedbac } from "./Statistics/Feedbac.jsx";
+
 
 export const App = () => {
   return (
     <div>
-      <Statistics naes = 'Please leave feedback'/>
+      <Feedbac title='Please leave feedback' />
     </div>
   );
 };
