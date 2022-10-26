@@ -7,9 +7,9 @@
     list-style: none;
 }
 
-/* .item {
-
-} */
+.isHidden {
+display: none;
+}
 
 .btn__list {
     display: flex;
