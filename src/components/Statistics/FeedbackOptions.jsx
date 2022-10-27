@@ -1,5 +1,5 @@
 import css from './Statistics.module.css'
-import PropTypes from 'prop-types'
+// import PropTypes from 'prop-types'
 
 export const FeedbackOptions = ({ options }) => {
     return <div className={css.btn__list}>
